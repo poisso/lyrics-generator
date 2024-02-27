@@ -1,0 +1,4 @@
+.env
+lyrics-gen-venv/
+lyrics_data/*
+!/lyrics-data/
