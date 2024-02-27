@@ -27,7 +27,7 @@ Features
 
 # Notes
 
-    This app utilizes language models from OpenAI and other components from the LangChain community.
+- This app utilizes language models from OpenAI and other components from the LangChain community.
 
-    The azlyrics_scraper.ipynb notebook can be used to retrieve lyrics from the AzLyrics website.
+- The azlyrics_scraper.ipynb notebook can be used to retrieve lyrics from the AzLyrics website.
 
